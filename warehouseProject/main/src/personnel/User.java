@@ -37,7 +37,7 @@ public class User {
         if (isEmployee) {
             System.out.println("Goodbye " + name + "! Have a great day!");
         } else {
-            System.out.println("Goodbye!");
+            System.out.println("Goodbye Guest!");
         }
     }
 
