@@ -1,4 +1,7 @@
 package service;
 
-public class WarehouseService {
+import stock.Warehouse;
+
+public class WarehouseService extends Warehouse {
+
 }
